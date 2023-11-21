@@ -18,3 +18,6 @@ The Inverse Cumulative Distribution Function for the Levy distribution is given 
 
 Here, u is a uniform distribution.
 
+## Example
+
+![Levy](https://github.com/SekaiGao/Levy-Sampling/blob/main/levy.png)
